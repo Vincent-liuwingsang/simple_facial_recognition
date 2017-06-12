@@ -22,4 +22,5 @@ Tips:
 2) Change the float parameter in compare_faces to suit different environmental needs
 
 Example:
-https://user-images.githubusercontent.com/16081202/27040397-712092e4-4fc3-11e7-8023-12acdd1077a4.png
+![Alt text](https://user-images.githubusercontent.com/16081202/27040397-712092e4-4fc3-11e7-8023-12acdd1077a4.png
+ "Me and my mom")
