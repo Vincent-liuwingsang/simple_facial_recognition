@@ -24,3 +24,10 @@ Tips:
 Example:
 ![Alt text](https://user-images.githubusercontent.com/16081202/27040397-712092e4-4fc3-11e7-8023-12acdd1077a4.png
  "Me and my mom")
+
+
+
+Modification potential:
+1) use Raspberry Pi as camera
+2) add voice module for recognition purposes
+3) run it a local server and make it learn through cameras!!
